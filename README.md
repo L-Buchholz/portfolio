@@ -16,7 +16,7 @@ Additionally, all images have alt tags attributed to them for accessibility and 
 
 The following is a screenshot of the webpage, highlighting its appearance and functionality:
 
-![Lauren's portfolio webpage. This image includes: a navigation bar; a header image; and cards with text and images indicating portfolio examples and "Contact" details](./assets/images/INCLUDELINKTOSCREENSHOT)
+![Lauren's portfolio webpage. This image includes: a navigation bar; a header image; and cards with text and images indicating portfolio examples and "Contact" details.](./assets/images/Webpage_screenshot.jpg)
 
 ## Link to deployed application
 
