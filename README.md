@@ -20,4 +20,4 @@ The following is a screenshot of the webpage, highlighting its appearance and fu
 
 ## Link to deployed application
 
-My initial portfolio page can now be found here: LINK ONCE YOU'VE DEPLOYED APPLICATION
+My initial portfolio page can now be found here: https://l-buchholz.github.io/portfolio/
