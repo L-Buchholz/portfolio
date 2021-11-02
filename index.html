@@ -13,10 +13,12 @@
       <h1>Lauren Buchholz</h1>
       <nav>
         <ul>
-          <li><a href="#">About Me</a></li>
-          <li><a href="#">My Work</a></li>
-          <li><a href="#">Contact Me</a></li>
-          <li><a href="#">Resume [Coming soon]</a></li>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#my-work">My Work</a></li>
+          <li><a href="#contact-me">Contact Me</a></li>
+          <li class="tooltip">
+            <a href="#">Resume</a><span class="tooltiptext">Coming soon</span>
+          </li>
         </ul>
       </nav>
     </header>
@@ -26,15 +28,18 @@
       src="./assets/images/Greek_cafe.jpg"
       alt="Website banner -- Cafe in Greece (&copy;Lauren Buchholz)"
     />
-    <!-- ADD A COOL SUBTITLE TO THE IMAGE HERE -->
 
     <main>
       <section>
         <article>
           <div>
-            <h2>About Me</h2>
+            <h2 id="about-me">About Me</h2>
           </div>
-          <div>
+          <div class="about">
+            <img
+              src="./assets/images/Portrait.jpg"
+              alt="Lauren Buchholz self-portrait (&copy;Lauren Buchholz)"
+            />
             <p>
               I'm baby single-origin coffee tumeric 90's, art party whatever
               cliche microdosing pitchfork coloring book. Typewriter
@@ -53,36 +58,40 @@
         </article>
         <article>
           <div>
-            <h2>My Work</h2>
+            <h2 id="my-work">My Work</h2>
           </div>
-            <div class="example1">
-              <img 
+          <div class="example1">
+            <a href="#">
+              <img
                 id="top"
                 src="./assets/images/Greek_cafe.jpg"
                 alt="Sample image (&copy;Lauren Buchholz)"
               />
-            </div>
+            </a>
+          </div>
         </article>
         <article>
-            <div class="blankspace">
-            </div>
-            <div class="examples">
+          <div class="blankspace"></div>
+          <div class="examples">
+            <a href="#">
               <img
                 src="./assets/images/Greek_cafe.jpg"
                 alt="Sample image (&copy;Lauren Buchholz)"
               />
-            </div>
-            <div class="examples">
+            </a>
+          </div>
+          <div class="examples">
+            <a href="#">
               <img
                 src="./assets/images/Greek_cafe.jpg"
                 alt="Sample image (&copy;Lauren Buchholz)"
               />
-            </div>
-          </figure>
+            </a>
+          </div>
         </article>
         <article>
           <div>
-            <h2>Contact Me</h2>
+            <h2 id="contact-me">Contact Me</h2>
           </div>
           <ul>
             <li><a href="#">[Phone number]</a></li>
