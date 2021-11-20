@@ -1,3 +1,7 @@
+/*
+**TO-DO: Add mobile responsive navbar**
+*/
+
 /* Body styled in CSS (flexbox) */
 
 body {
@@ -194,18 +198,6 @@ versus others, including "Example" content box */
   border-width: 4px;
   position: relative;
   font-family: cursive;
-}
-
-.example1::after {
-  content: "Example";
-  text-align: center;
-  border-radius: 5px;
-  width: 80px;
-  height: 22px;
-  background: #fff;
-  position: absolute;
-  left: 0;
-  top: 0;
 }
 
 #top {
