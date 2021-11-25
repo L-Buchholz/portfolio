@@ -13,7 +13,9 @@ An employer/hiring manager has requested a portfolio page highlighting my experi
 ## UPDATE -- 11/20/2021
 
 - My first project -- a collaborative group effort on the demo uProjekt project management program -- has been added to the "My Work" section with a deployed URL.
-- A LinkedIn profile has been added to the "Contact" section.
+- Two other coding assignments have been added to "My Work".
+- A resume has been updated and posted online.
+- GitHub and LinkedIn have been updated.
 
 Additionally, all images have alt tags attributed to them for accessibility and the CSS includes comments.
 
