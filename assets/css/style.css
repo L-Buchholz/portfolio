@@ -193,7 +193,7 @@ including "Example" content boxes */
 */
 
 #examples1::after {
-  content: "Interactive timed nursery rhymes quiz";
+  content: "uProjekt: Interactive project management application";
   text-align: left;
   padding-left: 5px;
   border-radius: 2px solid black;
@@ -206,7 +206,7 @@ including "Example" content boxes */
 }
 
 #examples2::after {
-  content: "Interactive workday tasks scheduler";
+  content: "Interactive timed nursery rhymes quiz";
   text-align: left;
   padding-left: 5px;
   border-radius: 2px solid black;
@@ -239,7 +239,7 @@ versus others, including "Example" content box */
 }
 
 .example1::after {
-  content: "uProjekt: Interactive project management application";
+  content: "MileHi: Denver recreational activities database";
   text-align: left;
   padding-left: 5px;
   border-radius: 2px solid black;
