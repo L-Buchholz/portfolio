@@ -19,6 +19,10 @@ An employer/hiring manager has requested a portfolio page highlighting my experi
 
 Additionally, all images have alt tags attributed to them for accessibility and the CSS includes comments.
 
+## UPDATE -- 1/4/2022
+
+- My second project -- a collaborative group effort on the MileHi recreational database -- has been added to the "My Work" section with a deployed URL.
+
 ## Portfolio webpage
 
 The following is a screenshot of the webpage, highlighting its appearance and functionality:
