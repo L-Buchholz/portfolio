@@ -192,8 +192,9 @@ including "Example" content boxes */
 }
 */
 
+/*
 #examples1::after {
-  content: "uProjekt: Project management app";
+  content: "uProjekt: Project management app";-->
   text-align: left;
   padding-left: 5px;
   border-radius: 2px solid black;
@@ -204,7 +205,9 @@ including "Example" content boxes */
   left: 0;
   bottom: 0;
 }
+*/
 
+/*
 #examples2::after {
   content: "Interactive timed nursery rhymes quiz";
   text-align: left;
@@ -217,6 +220,7 @@ including "Example" content boxes */
   left: 0;
   bottom: 0;
 }
+*/
 
 img {
   width: 100%;
@@ -238,6 +242,7 @@ versus others, including "Example" content box */
   position: relative;
 }
 
+/*
 .example1::after {
   content: "MileHi: Denver recreational activities database";
   text-align: left;
@@ -250,6 +255,7 @@ versus others, including "Example" content box */
   left: 0;
   bottom: 0;
 }
+*/
 
 #top {
   width: 100%;
